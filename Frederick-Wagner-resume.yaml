@@ -5,9 +5,8 @@ URL: doctaphred.github.io
 
 
 Bio:
-  Boston-area freelance Python developer and mentor. Seeking to build
-  quality software on an excellent team, to learn from great leaders,
-  and to become one myself.
+  Boston-area software developer and mentor. Seeking to build quality software
+  on an excellent team, to learn from great leaders, and to become one myself.
 
 
 Buzzwords:
@@ -22,9 +21,54 @@ Buzzwords:
 
 Relevant Experience:
 
+  Software Engineer 4:
+    Employer: Adobe Systems
+    Dates: Jan 2018-present
+    Location: Newton, MA
+    Description:
+      My first promotion! It's about the same as my previous role, just with
+      more email.
+
+      Developed and maintained the Send & Track service as part of Adobe's DC
+      Web initiative. Worked primarily on the Django-based web server and
+      daemons, coordinating with front-end focused teammates to ensure new API
+      features were used appropriately and satisfied the problem's needs.
+
+      Continued supporting the Custom Email Templates feature of Adobe Sign,
+      helping CSMs to take full advantage of the new functionality and make
+      sure customers were onboarded to their satisfaction. Diagnosed, triaged,
+      and fixed customer- and CSM-reported errors in the service, working in
+      both Python/Django and Java/Spring web projects.
+
+      Played "goalie" for the Black Sparrow scrum team. Fielded all incoming
+      external work requests, worked with the requesters to clarify and define
+      the problems at hand, and made sure all necessary work was cataloged in
+      the team's backlog. Became adept at politely-yet-firmly saying "no" :)
+
+  Software Engineer 3:
+    Employer: Adobe Systems
+    Dates: Mar 2016-Jan 2018
+    Location: Newton, MA
+    Description: >-
+      Developed the Custom Email Templates ("CEMT") feature of Adobe Sign with
+      an amazing team of senior software engineers, the Black Sparrows.
+      Designed and built from scratch a web service capable of managing
+      user-editable templates and servicing 1 million email requests per day,
+      with cross-region failover for 99.99% availability. Integrated the
+      service with Adobe Sign, Adobe PostOffice, Amazon S3 and SQS, and our
+      Identity Management Service.
+
+      Interviewed and onboarded new team members, eventually partnering with
+      one of them to bring a new component of the CEMT project to production,
+      as the rest of the team was moved onto a new initiative.
+
+      Saw my name used as a verb: in certain corners of the Newton office,
+      "Fredericking" a Python question is now seen as a superior replacement
+      for Google or Stack Overflow.
+
   Programming Mentor:
     Employer: Self-employed
-    Dates: Oct 2015-present
+    Dates: Oct 2015-Mar 2016
     Location: Cambridge, MA
     Description: >-
       In the words of Ned Batchelder, I "make people awesome". I love
@@ -148,4 +192,4 @@ Education:
       to see how I liked software development, and never looked back.
 
 
-Updated: 2 Feb 2016
+Updated: 25 Jun 2018
