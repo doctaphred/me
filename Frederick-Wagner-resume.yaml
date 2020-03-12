@@ -21,9 +21,33 @@ Buzzwords:
 
 Relevant Experience:
 
+  Software Engineer:
+    Employer: Quantopian Inc.
+    Dates: Oct 2018-present
+    Location: Boston, MA
+    Description: >-
+      I work with a small team of exceptional software engineers, developing an
+      open platform for financial research and collaboration via hosted Jupyter
+      notebooks and an in-browser IDE. We missed the memo that sandboxing
+      Python is an impossible problem, and are securely executing thousands of
+      users' untrusted Python code on our servers, all while protecting their
+      intellectual property by never even looking at their code.
+
+      My personal responsibilities have included:
+        - building high performance data engineering tools with Python and C++;
+        - maintaining Docker-based development and deployment infrastructure;
+        - managing complex scientific Python environments and build systems;
+        - developing software as diverse as ETL pipelines and AST analyses;
+        - converting not only our own code, but also thousands of users', from 
+          Python 2 to 3 -- in the latter case, without ever looking at it.
+
+      In addition to 'Software Engineer', I hold the self-bestowed title of 
+      'Chief Emoji Officer', and am proudly responsible for fully **one third**
+      (1/3) of our team's Slack emoji.
+
   Software Engineer 4:
     Employer: Adobe Systems
-    Dates: Jan 2018-present
+    Dates: Jan 2018-Oct 2018
     Location: Newton, MA
     Description:
       My first promotion! It's about the same as my previous role, just with
